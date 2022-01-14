@@ -9,5 +9,5 @@ Anish Pokhrel  1NTT8CS191
 
 Shreeyut Shrestha 1NT18CS206
 
-Tej Narayan Chauhan 1NT18CS209
+TejNarayan Chauhan 1NT18CS209
 
