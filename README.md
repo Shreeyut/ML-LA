@@ -5,7 +5,7 @@ Topic : Movie Recommendation using KNN algorithm
 
 Team members:
 
-Anish Pokhrel 1NTT8CS191
+Anish Pokhrel  1NTT8CS191
 
 Shreeyut Shrestha 1NT18CS206
 
