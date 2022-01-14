@@ -1,5 +1,5 @@
 # ML-LA
-This repo consists of all the materials related to Learning Activity of Machine Learning.
+This repo consists of all the materials related to Learning Activity of Machine Learning. \n
 Topic : Movie Recommendation using KNN algorithm
 Team members:
 Anish Pokhrel 1NTT8CS191
